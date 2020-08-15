@@ -1,0 +1,18 @@
+spring:
+    cloud:
+        function:
+            scan:
+                packages: abhishek.scattered.springcloudfunction
+        stream:
+            function:
+                routing:
+                    enabled: true
+logging:
+    level:
+        root: info
+        org.springframework: info
+        org.springframework.cloud.function: info
+        liquibase : info
+        org.hibernate.type: error
+    pattern:
+        console: '${PID:- } %-5level  %class{36}.%M:%L  - %msg%n'

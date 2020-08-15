@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Spring Cloud Function Router" type="Application" factoryName="Application" folderName="scattered">
+    <option name="MAIN_CLASS_NAME" value="abhishek.scattered.springcloudfunction.Application" />
+    <module name="scattered-spring-cloud-function-router" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="abhishek.scattered.springcloudfunction.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

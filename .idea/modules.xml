@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/scattered.iml" filepath="$PROJECT_DIR$/.idea/scattered.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scattered-spring-cloud-function-router/scattered-spring-cloud-function-router.iml" filepath="$PROJECT_DIR$/scattered-spring-cloud-function-router/scattered-spring-cloud-function-router.iml" />
+    </modules>
+  </component>
+</project>
